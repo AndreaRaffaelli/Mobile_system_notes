@@ -14,3 +14,8 @@ First Chapter about the physical layer:
 
 ## How to use
 Import this repo as vault in Obsidian
+
+## Other useful contents
+
+- [carnivut's github](https://github.com/carnivuth/mobile_systems)
+- [mikyll's github](https://github.com/mikyll/Mobile-Systems-M)
